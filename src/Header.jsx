@@ -1,5 +1,5 @@
 import React from "react";
-import siteLogoImage from '../images/siteLogo.jpg';
+import siteLogoImage from '../images/WaveLogo.png';
 import shoppingCartImage from '../images/shoppingCart.jpg';
 
 export default function Header({ onCartClick, onJoinUsClick, onaboutclick }) {
@@ -12,7 +12,7 @@ export default function Header({ onCartClick, onJoinUsClick, onaboutclick }) {
         <div className="header">
             <div className="site-name">
                 <img src={siteLogoImage} alt="site-logo" />
-                <h1>VIThub</h1>
+                <h1>Wave Inc.</h1>
             </div>
             <div className="search">
                 <div className="search-bar">

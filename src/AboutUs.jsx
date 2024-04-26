@@ -9,10 +9,9 @@ export default function AboutUs() {
     
       <div className="about-content"> {/* Added class name */}
         <h1>About Us</h1>
-        <p>Welcome to VIThub! We are dedicated to providing quality products and services to our customers...</p>
-        <p>Contact us: kishorekumarsskh@gmail.com</p>
-        <p>Follow us on Instagram: <a href="https://www.instagram.com/kishore_here__?igsh=MXRrZ2kxNHpvYmJ1aQ==" target="_blank" rel="noopener noreferrer">@kishore_here__</a></p>
-        <p>My portfolio <a href="https://beautiful-malabi-348432.netlify.app/">link</a></p>
+        <p>Welcome to Wave! We are dedicated to providing quality products and services to our customers...</p>
+        <p>Contact us: Shashank and Shrey</p>
+        <p>Our furniture brand: <a href="https://shashank-modi.github.io/Web-Programming-Mini-Project/">link</a></p>
       </div>
     </div>
   );
